@@ -1,6 +1,6 @@
 {% set name = "svgpathtools" %}
-{% set version = "1.5.1" %}
-{% set sha256 = "d6d65159051b1471de6645606b59e1be0373750192665185ae976425c41b7fb0" %}
+{% set version = "1.6.0" %}
+{% set sha256 = "c0b934eed29acaeb09988afb4d15c5984366847236e21b80c079d8edb5ac0c4e" %}
 
 package:
   name: {{ name|lower }}
