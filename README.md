@@ -1,11 +1,11 @@
-About svgpathtools
-==================
+About svgpathtools-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/svgpathtools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mathandy/svgpathtools
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/svgpathtools-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools for manipulating and analyzing SVG Path objects and Bezier curves
 
